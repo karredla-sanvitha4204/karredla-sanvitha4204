@@ -1,4 +1,3 @@
-![Sanvitha's Developer Banner](./banner.png)
 
 <div align="center">
 
